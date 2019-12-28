@@ -1,0 +1,8 @@
+{
+    "name": "LTI",
+    "version": "1.0.1",
+    "description": "Authenticate into your Known site from a Learning Management System using LTI.",
+    "devDependencies": {
+        "grunt": "^1.0.3"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "idno/lti",
+    "description": "Authenticate into your Known site from a Learning Management System using LTI.",
+    "type": "known-plugin",
+    "version": "1.0.1",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "require-dev": {
+        "mapkyca/known-dev-scripts": "^1.3",
+        "mapkyca/known-language-tools": "^1.0"
+    },
+    "extra": {
+        "installer-name": "LTI"
+    }
+}
